@@ -1,5 +1,5 @@
 ﻿key,0,1,2
-#,Icon,Name,
+#,Icon,,Name
 offset,4,8,0
 int32,Image,byte,str
 0,0,0,""
